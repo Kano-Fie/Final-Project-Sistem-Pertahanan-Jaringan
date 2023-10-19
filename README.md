@@ -13,7 +13,7 @@ Tugas Akhir Semester 3
 Ubuntu 22.04
 
 # Service Web Server
-- DDos Mitigation Service ()
+- SSL/TLS ()
 - Firewall                ()
 - Virtual Privat Network  ()
 # Progress
