@@ -17,5 +17,6 @@ Ubuntu 22.04
 - SSL/TLS Encryption
 - Virtual Private Network
 # Progress
-19-10-2023 Install Ubuntu 22.04
-19-10-2023 Membuat Web Server
+- 19-10-2023 Install Ubuntu 22.04
+- 19-10-2023 Membuat Web Server
+- 19-10-2023 Memasang Firewall untuk Server
