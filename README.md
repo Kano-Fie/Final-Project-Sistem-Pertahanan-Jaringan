@@ -13,9 +13,9 @@ Tugas Akhir Semester 3
 Ubuntu 22.04
 
 # Service Web Server
-- DDos Mitigation Service
-- SSL/TLS Encryption
-- Virtual Private Network
+- DDos Mitigation Service ()
+- Firewall                ()
+- Virtual Privat Network  ()
 # Progress
 - 19-10-2023 Install Ubuntu 22.04
 - 19-10-2023 Membuat Web Server
