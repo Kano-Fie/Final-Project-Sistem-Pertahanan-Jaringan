@@ -14,7 +14,7 @@ Ubuntu 22.04
 
 # Service Web Server
 - SSL/TLS ()
-- Firewall                ()
+- Web Aplication Firewall                ()
 - Virtual Privat Network  ()
 # Progress
 - 19-10-2023 Install Ubuntu 22.04
