@@ -1,11 +1,19 @@
 # Final-Project-Sistem-Pertahanan-Jaringan
-Tugas Akhir Semester 3 Sistem Pertahanan Jaringan
+Tugas Akhir Semester 3
 
-
+# Anggota Kelompok
+- 22.83.0902
+- 22.83.0945
+- 22.83.0920
+- 22.83.0943
+- 22.83.0913
+  
 # OS
 Ubuntu 22.04
 
-# Service Server
+# Service Web Server
 - DDos Mitigation Service
 - SSL/TLS Encryption
-
+- Virtual Private Network
+# Progress
+19-10-2023 Install Ubuntu 22.04
