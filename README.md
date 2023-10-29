@@ -16,6 +16,7 @@ Ubuntu 22.04
 - Apache
 - mariaDB
 - SSH
+- CMS
 
 # Security Service
 - SSL/TLS
